@@ -33,6 +33,8 @@
 ## 2. Amazon Web Services (AWS) Account
 
 <img width="949" alt="aws 1 authentication" src="https://github.com/user-attachments/assets/b82eaabd-b5ce-4e61-a777-46c926629c26" />
+
 <img width="955" alt="AWS signin" src="https://github.com/user-attachments/assets/12a9f42a-3f02-4ffa-adab-d149cc220dbc" />
+
 <img width="959" alt="AWS homepage" src="https://github.com/user-attachments/assets/f2922d51-fcb9-4e96-92f4-4ed350419b5e" />
 
