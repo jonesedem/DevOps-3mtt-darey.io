@@ -7,31 +7,31 @@ Tools i have installed
 
 1. Installation of Visual studio code (VScode)
 
-![VScode welcomepage]](<VS CODE welcome screen.png>)
+[VScode welcomepage](images/VS CODE welcome screen.png)
 
 2. Git installation
 
-![Git Installation]] (<git version screen.png>)
+[Git Installation](images/git version screen.png)
 
 3. Git GUI
 
-![Git GUI]}(<Git screen.png>)
+[Git GUI](images/Git screen.png)
 
 4. Virtual box manager with Ubuntu OS
 
-![Virtual Box Manager]}(<virtualbox manager.png>)
+[Virtual Box Manager](images/virtualbox manager.png)
 
 5. Ubuntu OS installation on Virtual box
 
-![Ubuntu OS installation]}(<ubuntu installation on virtualbox.png>)
+[Ubuntu OS installation](images/ubuntu installation on virtualbox.png)
 
 The required accounts that i have created
 1. Github account
 
-![Github account]}(<github account.png>)
+[Github account](images/github account.png)
 
 2. Amazon Web Services (AWS) Account
 
-![AWS sign up]}(<aws 1 authentication.png>)
-![Root user sign in]}(<AWS signin.png>)
-![AWS console home page]}(<AWS homepage.png>)
+[AWS sign up](images/aws 1 authentication.png)
+[Root user sign in](images/AWS signin.png)
+[AWS console home page](images/AWS homepage.png)
