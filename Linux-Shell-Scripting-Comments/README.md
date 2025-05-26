@@ -10,7 +10,7 @@ Single-line comments in Bash start with the # symbol. Anything following this sy
 
 Shell comments on poershell:
 
-<img width="745" alt="image" src="https://github.com/user-attachments/assets/4e9dc77b-aeb9-4613-9683-7c09152ea0ed" />
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/12f8a5dc-eb1e-40f4-bdee-6c7fde1d7173" />
 
 
 Script run on Git Bash
@@ -18,6 +18,6 @@ Script run on Git Bash
 <img width="497" alt="run shell comments" src="https://github.com/user-attachments/assets/b649ad0c-bcc9-46fd-8309-7964eab19c4f" />
 
 
-![1  single line comment](https://github.com/user-attachments/assets/29c84d23-e8b2-4b72-8baa-a4ebff38e6a2)
+
 
 
