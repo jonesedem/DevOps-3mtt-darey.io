@@ -4,5 +4,3 @@ Comments are lines in your code that are ignore by the interpreter. In Bash scri
 
 Single-Line Comments
 Single-line comments in Bash start with the # symbol. Anything following this symbol on the same line is treated as a comment and is not executed.
-
-Using Multiple Single-Line Comments:
