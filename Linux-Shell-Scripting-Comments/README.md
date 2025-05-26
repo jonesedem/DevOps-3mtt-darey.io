@@ -17,3 +17,7 @@ Script run on Git Bash
 
 <img width="497" alt="run shell comments" src="https://github.com/user-attachments/assets/b649ad0c-bcc9-46fd-8309-7964eab19c4f" />
 
+
+![1  single line comment](https://github.com/user-attachments/assets/29c84d23-e8b2-4b72-8baa-a4ebff38e6a2)
+
+
