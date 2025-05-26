@@ -10,7 +10,8 @@ Single-line comments in Bash start with the # symbol. Anything following this sy
 
 Shell comments on poershell:
 
-<img width="574" alt="shell comment on powershell" src="https://github.com/user-attachments/assets/d465e481-0b28-473c-9391-0901388cb137" />
+<img width="745" alt="image" src="https://github.com/user-attachments/assets/4e9dc77b-aeb9-4613-9683-7c09152ea0ed" />
+
 
 Script run on Git Bash
 
