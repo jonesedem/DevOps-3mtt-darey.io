@@ -42,5 +42,7 @@
 
 ## C-Style for statement
 
+<img width="632" alt="control flow 7a" src="https://github.com/user-attachments/assets/ca881a43-7a58-4f6f-aef2-94c0a048e81b" />
 
+<img width="630" alt="control flow 7b" src="https://github.com/user-attachments/assets/9b363ed9-0e59-46cf-a788-51d1206257d2" />
 
